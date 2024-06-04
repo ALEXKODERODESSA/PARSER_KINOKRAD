@@ -29,7 +29,6 @@ def save_to_excel(filename):
 
     workbook.close()
 
-
 save_to_excel(r'/Users/alexandr/Desktop/SPARSIL.xlsx')
 
 
