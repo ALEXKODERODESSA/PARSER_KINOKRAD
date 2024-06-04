@@ -102,4 +102,3 @@ def funk_iz_main():
 
 funk_iz_main()
 
-# h =33

@@ -32,4 +32,4 @@ def save_to_excel(filename):
 
 save_to_excel(r'/Users/alexandr/Desktop/SPARSIL.xlsx')
 
-# опа
+
